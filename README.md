@@ -4,7 +4,7 @@ array sort methods using c++ language
 # methods :
 * Bubble sort [go to code](https://github.com/ahmadner/array_sort_methods/tree/main/Bubble%20sort)
 
-* Insertion sort [go to code](#)
+* Insertion sort [go to code](https://github.com/ahmadner/array_sort_methods/tree/main/Insertion%20sort)
 
 * Merge sort [go to code](#)
 
